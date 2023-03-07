@@ -1,5 +1,6 @@
 /node_modules
 /dist
+/dir
 /data.json
 /data-templates
 /.env

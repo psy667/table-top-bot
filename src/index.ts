@@ -1,6 +1,6 @@
 import { Telegraf } from "telegraf";
 import { URL } from "url";
-import { Database } from "./db";
+import { Database } from "./db.js";
 import { htmlToText } from "html-to-text";
 
 import * as dotenv from "dotenv";
